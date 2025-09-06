@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+openai
+google-generativeai
+clerk-backend-api
+svix

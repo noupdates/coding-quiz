@@ -1,0 +1,11 @@
+.env
+*.env
+.venv
+env/
+venv/
+.venv/
+
+node_modules/*
+.vscode/*
+
+.db
